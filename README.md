@@ -1,6 +1,6 @@
-<H3>NAME: MONISH N </H3>
-<H3>REGISTER NO: 212223240097 </H3>
-<CENTER> Implementation of Semantic Analysis </CENTER>
+### NAME: MONISH N 
+### REGISTER NO: 212223240097 
+#  EXP-6 Implementation of Semantic Analysis 
 <h3>Aim:</h3>
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
  
