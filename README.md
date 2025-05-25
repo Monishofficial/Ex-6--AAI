@@ -1,8 +1,8 @@
 <H3>NAME: MONISH N </H3>
 <H3>REGISTER NO: 212223240097 </H3>
-
-## <h3>Aim:</h3>
-EXP-6 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
+<CENTER> Implementation of Semantic Analysis </CENTER>
+<h3>Aim:</h3>
+To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
  
  
 ## <h3>Algorithm:</h3>
